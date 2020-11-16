@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GoogleKeep-App/static/css/main.9702484f.chunk.css",
+    "main.js": "/GoogleKeep-App/static/js/main.279b2c4d.chunk.js",
+    "main.js.map": "/GoogleKeep-App/static/js/main.279b2c4d.chunk.js.map",
+    "runtime-main.js": "/GoogleKeep-App/static/js/runtime-main.08a670a8.js",
+    "runtime-main.js.map": "/GoogleKeep-App/static/js/runtime-main.08a670a8.js.map",
+    "static/js/2.513ea39f.chunk.js": "/GoogleKeep-App/static/js/2.513ea39f.chunk.js",
+    "static/js/2.513ea39f.chunk.js.map": "/GoogleKeep-App/static/js/2.513ea39f.chunk.js.map",
+    "index.html": "/GoogleKeep-App/index.html",
+    "precache-manifest.337d92ba985c07415ac5c7cc6279c847.js": "/GoogleKeep-App/precache-manifest.337d92ba985c07415ac5c7cc6279c847.js",
+    "service-worker.js": "/GoogleKeep-App/service-worker.js",
+    "static/css/main.9702484f.chunk.css.map": "/GoogleKeep-App/static/css/main.9702484f.chunk.css.map",
+    "static/js/2.513ea39f.chunk.js.LICENSE.txt": "/GoogleKeep-App/static/js/2.513ea39f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08a670a8.js",
+    "static/js/2.513ea39f.chunk.js",
+    "static/css/main.9702484f.chunk.css",
+    "static/js/main.279b2c4d.chunk.js"
+  ]
+}
